@@ -16,13 +16,29 @@ function DeveloperInfo() {
             <div data-aos="fade" data-aos-delay="100">
                 <h6>Want your own Card on the Internet, Visit:</h6>
                 <a href="https://ziya-invites.netlify.app/">
-                    <h4>Ziya Invites</h4>
+                    <h4>
+                        Ziya Invites
+                        <sup>
+                            <FontAwesomeIcon
+                                icon={faArrowUpRightFromSquare}
+                                size="sm"
+                            />
+                        </sup>
+                    </h4>
                 </a>
                 <br />
                 <br />
                 <h6>Or Contact:</h6>
                 <a href="https://ziauddinziya07.github.io">
-                    <h4>Ziauddin Ziya</h4>
+                    <h4>
+                        Ziauddin Ziya
+                        <sup>
+                            <FontAwesomeIcon
+                                icon={faArrowUpRightFromSquare}
+                                size="sm"
+                            />
+                        </sup>
+                    </h4>
                 </a>
                 <p>
                     ziauddinziya07@gmail.com
