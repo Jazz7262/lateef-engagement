@@ -36,6 +36,9 @@
 #developer-info {
     padding: 10% 10%;
 }
+#developer-info a { 
+    text-decoration: underline;
+}
 }
 
 /* Old Mobile Phones Wide Screens */

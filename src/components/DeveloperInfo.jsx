@@ -7,6 +7,7 @@ import {
     faWhatsapp,
     faSkype,
 } from "@fortawesome/free-brands-svg-icons";
+import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 import "../styles/DeveloperInfo.css";
 
 function DeveloperInfo() {
